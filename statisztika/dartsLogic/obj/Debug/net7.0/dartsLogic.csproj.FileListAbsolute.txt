@@ -1,0 +1,30 @@
+C:\Users\Suli\source\repos\statisztika\dartsLogic\bin\Debug\net7.0\dartsLogic.deps.json
+C:\Users\Suli\source\repos\statisztika\dartsLogic\bin\Debug\net7.0\dartsLogic.dll
+C:\Users\Suli\source\repos\statisztika\dartsLogic\bin\Debug\net7.0\dartsLogic.pdb
+C:\Users\Suli\source\repos\statisztika\dartsLogic\bin\Debug\net7.0\dartsEredmeny.dll
+C:\Users\Suli\source\repos\statisztika\dartsLogic\bin\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.csproj.AssemblyReference.cache
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.AssemblyInfoInputs.cache
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.AssemblyInfo.cs
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.csproj.CoreCompileInputs.cache
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.csproj.CopyComplete
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.dll
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\refint\dartsLogic.dll
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.pdb
+C:\Users\Suli\source\repos\statisztika\dartsLogic\obj\Debug\net7.0\ref\dartsLogic.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\bin\Debug\net7.0\dartsLogic.deps.json
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\bin\Debug\net7.0\dartsLogic.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\bin\Debug\net7.0\dartsLogic.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\bin\Debug\net7.0\dartsEredmeny.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\bin\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.AssemblyInfo.cs
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.csproj.Up2Date
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\refint\dartsLogic.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\dartsLogic.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsLogic\obj\Debug\net7.0\ref\dartsLogic.dll

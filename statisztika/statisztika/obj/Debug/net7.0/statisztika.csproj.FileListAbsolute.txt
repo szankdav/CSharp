@@ -1,0 +1,41 @@
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\statisztika.exe
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\statisztika.deps.json
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\statisztika.runtimeconfig.json
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\statisztika.dll
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\statisztika.pdb
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\dartsEredmeny.dll
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\dartsLogic.dll
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\Suli\source\repos\statisztika\statisztika\bin\Debug\net7.0\dartsLogic.pdb
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.csproj.AssemblyReference.cache
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.AssemblyInfoInputs.cache
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.AssemblyInfo.cs
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.csproj.CoreCompileInputs.cache
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.csproj.CopyComplete
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.dll
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\refint\statisztika.dll
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.pdb
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\statisztika.genruntimeconfig.cache
+C:\Users\Suli\source\repos\statisztika\statisztika\obj\Debug\net7.0\ref\statisztika.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\dobasok.txt
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\statisztika.exe
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\statisztika.deps.json
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\statisztika.runtimeconfig.json
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\statisztika.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\statisztika.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\dartsEredmeny.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\dartsLogic.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\bin\Debug\net7.0\dartsLogic.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.AssemblyInfo.cs
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statiszt.8F667E63.Up2Date
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\refint\statisztika.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\statisztika.genruntimeconfig.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\statisztika\obj\Debug\net7.0\ref\statisztika.dll

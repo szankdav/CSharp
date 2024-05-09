@@ -1,0 +1,28 @@
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.exe
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.deps.json
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.runtimeconfig.json
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.dll
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.pdb
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.AssemblyInfoInputs.cache
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.AssemblyInfo.cs
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.csproj.CoreCompileInputs.cache
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.dll
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\refint\barlang_feladat.dll
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.pdb
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.genruntimeconfig.cache
+C:\Users\Suli\Desktop\barlang_feladat\barlang_feladat\obj\Debug\net7.0\ref\barlang_feladat.dll
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.exe
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.deps.json
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.runtimeconfig.json
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.dll
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\bin\Debug\net7.0\barlang_feladat.pdb
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.AssemblyInfo.cs
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.dll
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\refint\barlang_feladat.dll
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.pdb
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\barlang_feladat.genruntimeconfig.cache
+C:\Users\TUF Gaming\Desktop\C#\barlang_feladat\barlang_feladat\barlang_feladat\obj\Debug\net7.0\ref\barlang_feladat.dll

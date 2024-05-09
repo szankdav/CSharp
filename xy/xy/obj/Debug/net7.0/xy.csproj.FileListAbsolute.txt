@@ -1,0 +1,28 @@
+C:\Users\Suli\Desktop\xy\xy\bin\Debug\net7.0\xy.exe
+C:\Users\Suli\Desktop\xy\xy\bin\Debug\net7.0\xy.deps.json
+C:\Users\Suli\Desktop\xy\xy\bin\Debug\net7.0\xy.runtimeconfig.json
+C:\Users\Suli\Desktop\xy\xy\bin\Debug\net7.0\xy.dll
+C:\Users\Suli\Desktop\xy\xy\bin\Debug\net7.0\xy.pdb
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\xy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\xy.AssemblyInfoInputs.cache
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\xy.AssemblyInfo.cs
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\xy.csproj.CoreCompileInputs.cache
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\xy.dll
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\refint\xy.dll
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\xy.pdb
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\xy.genruntimeconfig.cache
+C:\Users\Suli\Desktop\xy\xy\obj\Debug\net7.0\ref\xy.dll
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\bin\Debug\net7.0\xy.exe
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\bin\Debug\net7.0\xy.deps.json
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\bin\Debug\net7.0\xy.runtimeconfig.json
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\bin\Debug\net7.0\xy.dll
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\bin\Debug\net7.0\xy.pdb
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\xy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\xy.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\xy.AssemblyInfo.cs
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\xy.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\xy.dll
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\refint\xy.dll
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\xy.pdb
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\xy.genruntimeconfig.cache
+C:\Users\TUF Gaming\Desktop\C#\xy\xy\obj\Debug\net7.0\ref\xy.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dartsLogic/1.0.0": {
+        "dependencies": {
+          "dartsEredmeny": "1.0.0"
+        },
+        "runtime": {
+          "dartsLogic.dll": {}
+        }
+      },
+      "dartsEredmeny/1.0.0": {
+        "runtime": {
+          "dartsEredmeny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dartsLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dartsEredmeny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

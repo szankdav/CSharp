@@ -1,0 +1,22 @@
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\bin\Debug\net7.0\dartsEredmeny.deps.json
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\bin\Debug\net7.0\dartsEredmeny.dll
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\bin\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.AssemblyInfoInputs.cache
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.AssemblyInfo.cs
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.csproj.CoreCompileInputs.cache
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.dll
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\refint\dartsEredmeny.dll
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\Suli\source\repos\statisztika\dartsEredmeny\obj\Debug\net7.0\ref\dartsEredmeny.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\bin\Debug\net7.0\dartsEredmeny.deps.json
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\bin\Debug\net7.0\dartsEredmeny.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\bin\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.AssemblyInfo.cs
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\refint\dartsEredmeny.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\dartsEredmeny.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-statisztika\statisztika\dartsEredmeny\obj\Debug\net7.0\ref\dartsEredmeny.dll

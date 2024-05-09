@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "statisztika/1.0.0": {
+        "dependencies": {
+          "dartsEredmeny": "1.0.0",
+          "dartsLogic": "1.0.0"
+        },
+        "runtime": {
+          "statisztika.dll": {}
+        }
+      },
+      "dartsEredmeny/1.0.0": {
+        "runtime": {
+          "dartsEredmeny.dll": {}
+        }
+      },
+      "dartsLogic/1.0.0": {
+        "dependencies": {
+          "dartsEredmeny": "1.0.0"
+        },
+        "runtime": {
+          "dartsLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "statisztika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dartsEredmeny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dartsLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

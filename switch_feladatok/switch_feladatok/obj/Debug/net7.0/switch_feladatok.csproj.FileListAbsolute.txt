@@ -1,0 +1,28 @@
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.exe
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.deps.json
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.runtimeconfig.json
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.dll
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.pdb
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.AssemblyInfoInputs.cache
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.AssemblyInfo.cs
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.dll
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\refint\switch_feladatok.dll
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.pdb
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.genruntimeconfig.cache
+C:\Users\Suli\Desktop\switch_feladatok\switch_feladatok\obj\Debug\net7.0\ref\switch_feladatok.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.exe
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.deps.json
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.runtimeconfig.json
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\bin\Debug\net7.0\switch_feladatok.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.AssemblyInfo.cs
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\refint\switch_feladatok.dll
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.pdb
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\switch_feladatok.genruntimeconfig.cache
+C:\Users\TUF Gaming\Desktop\C#\szankovszky-david-switch-feladatok\switch_feladatok\switch_feladatok\obj\Debug\net7.0\ref\switch_feladatok.dll
