@@ -1,0 +1,25 @@
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\bin\Debug\MemóriaJáték.exe.config
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\bin\Debug\MemóriaJáték.exe
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\bin\Debug\MemóriaJáték.pdb
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.csproj.AssemblyReference.cache
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.FrmIndulasiKepernyo.resources
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.Properties.Resources.resources
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.csproj.GenerateResource.cache
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.csproj.CoreCompileInputs.cache
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.exe
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.pdb
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.FrmJatekMezo.resources
+C:\Users\Develop\Desktop\C#\gyak_solutions\konyv\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.FrmJatekTipusValasztas.resources
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\bin\Debug\MemóriaJáték.exe.config
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\bin\Debug\MemóriaJáték.exe
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\bin\Debug\MemóriaJáték.pdb
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.FrmIndulasiKepernyo.resources
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.FrmJatekMezo.resources
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.FrmJatekTipusValasztas.resources
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.exe
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.pdb
+C:\Users\TUF Gaming\source\repos\MemóriaJáték\MemóriaJáték\obj\Debug\MemóriaJáték.FrmEredmenyek.resources

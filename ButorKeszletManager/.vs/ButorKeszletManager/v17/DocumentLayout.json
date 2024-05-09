@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\forms\\frmszures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:forms\\frmszures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|c:\\users\\tuf gaming\\source\\repos\\butorkeszletmanager\\forms\\frmszures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:forms\\frmszures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|c:\\users\\tuf gaming\\source\\repos\\butorkeszletmanager\\classes\\butor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:classes\\butor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\classes\\sajatlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:classes\\sajatlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\classes\\fembutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:classes\\fembutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\classes\\dbkivetel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:classes\\dbkivetel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\classes\\logkezelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:classes\\logkezelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\forms\\frmbutorkezelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:forms\\frmbutorkezelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\forms\\frmrendezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:forms\\frmrendezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\forms\\frmfembutoradatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B744537-8832-46DE-9180-7C5BD6FAF571}|ButorKeszletManager.csproj|solutionrelative:forms\\frmfembutoradatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmSzures.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmSzures.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmSzures.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmSzures.cs",
+              "RelativeToolTip": "Forms\\FrmSzures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:57:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SajatLista.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\SajatLista.cs",
+              "RelativeDocumentMoniker": "Classes\\SajatLista.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\SajatLista.cs",
+              "RelativeToolTip": "Classes\\SajatLista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T16:11:10.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Butor.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\Butor.cs",
+              "RelativeDocumentMoniker": "Classes\\Butor.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\Butor.cs",
+              "RelativeToolTip": "Classes\\Butor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T16:09:08.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FemButor.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\FemButor.cs",
+              "RelativeDocumentMoniker": "Classes\\FemButor.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\FemButor.cs",
+              "RelativeToolTip": "Classes\\FemButor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T07:32:02.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBKivetel.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\DBKivetel.cs",
+              "RelativeDocumentMoniker": "Classes\\DBKivetel.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\DBKivetel.cs",
+              "RelativeToolTip": "Classes\\DBKivetel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T07:31:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogKezelo.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\LogKezelo.cs",
+              "RelativeDocumentMoniker": "Classes\\LogKezelo.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Classes\\LogKezelo.cs",
+              "RelativeToolTip": "Classes\\LogKezelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T07:16:38.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSzures.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmSzures.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmSzures.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmSzures.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmSzures.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T07:15:26.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRendezes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmRendezes.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmRendezes.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmRendezes.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmRendezes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T07:15:18.786Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmFemButorAdatok.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmFemButorAdatok.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmFemButorAdatok.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmFemButorAdatok.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmFemButorAdatok.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T07:14:54.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmButorKezelo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmButorKezelo.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmButorKezelo.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmButorKezelo.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmButorKezelo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-23T07:14:35.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\ButorKeszletManager\\Forms\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Forms\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-20T12:09:29.088Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

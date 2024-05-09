@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\nezoter\bin\Debug\net8.0\nezoter.exe
+C:\Users\TUF Gaming\source\repos\nezoter\bin\Debug\net8.0\nezoter.deps.json
+C:\Users\TUF Gaming\source\repos\nezoter\bin\Debug\net8.0\nezoter.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\nezoter\bin\Debug\net8.0\nezoter.dll
+C:\Users\TUF Gaming\source\repos\nezoter\bin\Debug\net8.0\nezoter.pdb
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\nezoter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\nezoter.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\nezoter.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\nezoter.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\nezoter.dll
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\refint\nezoter.dll
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\nezoter.pdb
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\nezoter.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\nezoter\obj\Debug\net8.0\ref\nezoter.dll

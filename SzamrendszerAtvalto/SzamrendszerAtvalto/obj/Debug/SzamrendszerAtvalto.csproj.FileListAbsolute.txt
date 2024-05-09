@@ -1,0 +1,10 @@
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\bin\Debug\SzamrendszerAtvalto.exe.config
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\bin\Debug\SzamrendszerAtvalto.exe
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\bin\Debug\SzamrendszerAtvalto.pdb
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.exe
+C:\Users\TUF Gaming\source\repos\SzamrendszerAtvalto\SzamrendszerAtvalto\obj\Debug\SzamrendszerAtvalto.pdb

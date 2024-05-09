@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\bin\Debug\rekurzio.exe.config
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\bin\Debug\rekurzio.exe
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\bin\Debug\rekurzio.pdb
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\obj\Debug\faktorialis.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\obj\Debug\faktorialis.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\obj\Debug\faktorialis.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\obj\Debug\rekurzio.exe
+C:\Users\TUF Gaming\source\repos\rekurzio\rekurzio\obj\Debug\rekurzio.pdb

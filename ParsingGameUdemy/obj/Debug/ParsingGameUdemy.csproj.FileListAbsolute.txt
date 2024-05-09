@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\ParsingGameUdemy\bin\Debug\ParsingGameUdemy.exe.config
+C:\Users\TUF Gaming\source\repos\ParsingGameUdemy\bin\Debug\ParsingGameUdemy.exe
+C:\Users\TUF Gaming\source\repos\ParsingGameUdemy\bin\Debug\ParsingGameUdemy.pdb
+C:\Users\TUF Gaming\source\repos\ParsingGameUdemy\obj\Debug\ParsingGameUdemy.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ParsingGameUdemy\obj\Debug\ParsingGameUdemy.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ParsingGameUdemy\obj\Debug\ParsingGameUdemy.exe
+C:\Users\TUF Gaming\source\repos\ParsingGameUdemy\obj\Debug\ParsingGameUdemy.pdb

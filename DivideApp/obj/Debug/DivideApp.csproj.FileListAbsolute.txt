@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\DivideApp\bin\Debug\DivideApp.exe.config
+C:\Users\TUF Gaming\source\repos\DivideApp\bin\Debug\DivideApp.exe
+C:\Users\TUF Gaming\source\repos\DivideApp\bin\Debug\DivideApp.pdb
+C:\Users\TUF Gaming\source\repos\DivideApp\obj\Debug\DivideApp.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\DivideApp\obj\Debug\DivideApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\DivideApp\obj\Debug\DivideApp.exe
+C:\Users\TUF Gaming\source\repos\DivideApp\obj\Debug\DivideApp.pdb

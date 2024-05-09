@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "szalag/1.0.0": {
+        "dependencies": {
+          "szalagLibrary": "1.0.0"
+        },
+        "runtime": {
+          "szalag.dll": {}
+        }
+      },
+      "szalagLibrary/1.0.0": {
+        "runtime": {
+          "szalagLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "szalag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "szalagLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

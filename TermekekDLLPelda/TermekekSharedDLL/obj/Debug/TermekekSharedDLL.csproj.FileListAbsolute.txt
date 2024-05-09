@@ -1,0 +1,6 @@
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekSharedDLL\bin\Debug\TermekekSharedDLL.dll
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekSharedDLL\bin\Debug\TermekekSharedDLL.pdb
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekSharedDLL\obj\Debug\TermekekSharedDLL.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekSharedDLL\obj\Debug\TermekekSharedDLL.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekSharedDLL\obj\Debug\TermekekSharedDLL.dll
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekSharedDLL\obj\Debug\TermekekSharedDLL.pdb

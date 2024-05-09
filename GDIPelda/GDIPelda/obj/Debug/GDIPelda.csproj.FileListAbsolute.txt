@@ -1,0 +1,10 @@
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\bin\Debug\GDIPelda.exe.config
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\bin\Debug\GDIPelda.exe
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\bin\Debug\GDIPelda.pdb
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\obj\Debug\GDIPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\obj\Debug\GDIPelda.Form1.resources
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\obj\Debug\GDIPelda.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\obj\Debug\GDIPelda.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\obj\Debug\GDIPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\obj\Debug\GDIPelda.exe
+C:\Users\TUF Gaming\source\repos\GDIPelda\GDIPelda\obj\Debug\GDIPelda.pdb

@@ -1,0 +1,13 @@
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\bin\Debug\TermekekKliensDLL.exe.config
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\bin\Debug\TermekekKliensDLL.exe
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\bin\Debug\TermekekKliensDLL.pdb
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.exe
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.pdb
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\bin\Debug\TermekekSharedDLL.dll
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\bin\Debug\TermekekSharedDLL.pdb
+C:\Users\TUF Gaming\source\repos\TermekekDLLPelda\TermekekKliensDLL\obj\Debug\TermekekKliensDLL.csproj.CopyComplete

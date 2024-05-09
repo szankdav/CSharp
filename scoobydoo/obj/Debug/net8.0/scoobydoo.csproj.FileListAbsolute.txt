@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\scoobydoo\bin\Debug\net8.0\scoobydoo.exe
+C:\Users\TUF Gaming\source\repos\scoobydoo\bin\Debug\net8.0\scoobydoo.deps.json
+C:\Users\TUF Gaming\source\repos\scoobydoo\bin\Debug\net8.0\scoobydoo.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\scoobydoo\bin\Debug\net8.0\scoobydoo.dll
+C:\Users\TUF Gaming\source\repos\scoobydoo\bin\Debug\net8.0\scoobydoo.pdb
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\scoobydoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\scoobydoo.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\scoobydoo.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\scoobydoo.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\scoobydoo.dll
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\refint\scoobydoo.dll
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\scoobydoo.pdb
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\scoobydoo.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\scoobydoo\obj\Debug\net8.0\ref\scoobydoo.dll

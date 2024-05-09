@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\TUF Gaming\source\repos\BankApp\bin\Debug\BankApp.exe
+C:\Users\TUF Gaming\source\repos\BankApp\bin\Debug\BankApp.pdb
+C:\Users\TUF Gaming\source\repos\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\BankApp\obj\Debug\BankApp.exe
+C:\Users\TUF Gaming\source\repos\BankApp\obj\Debug\BankApp.pdb

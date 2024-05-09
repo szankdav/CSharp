@@ -1,0 +1,10 @@
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\bin\Debug\ElkaposJatekGDIPelda.exe.config
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\bin\Debug\ElkaposJatekGDIPelda.exe
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\bin\Debug\ElkaposJatekGDIPelda.pdb
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\obj\Debug\ElkaposJatekGDIPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\obj\Debug\ElkaposJatekGDIPelda.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\obj\Debug\ElkaposJatekGDIPelda.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\obj\Debug\ElkaposJatekGDIPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\obj\Debug\ElkaposJatekGDIPelda.exe
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\obj\Debug\ElkaposJatekGDIPelda.pdb
+C:\Users\TUF Gaming\source\repos\ElkaposJatekGDIPelda\ElkaposJatekGDIPelda\obj\Debug\ElkaposJatekGDIPelda.FrmMain.resources

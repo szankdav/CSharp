@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\bin\Debug\HF_07.03.exe.config
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\bin\Debug\HF_07.03.exe
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\bin\Debug\HF_07.03.pdb
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\obj\Debug\04037_OF_Emberek.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\obj\Debug\04037_OF_Emberek.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\obj\Debug\04037_OF_Emberek.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\obj\Debug\HF_07.03.exe
+C:\Users\TUF Gaming\source\repos\HF_07.03\HF_07.03\obj\Debug\HF_07.03.pdb

@@ -1,0 +1,20 @@
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\bin\Debug\BirkaVadasz.exe.config
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\bin\Debug\BirkaVadasz.exe
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\bin\Debug\BirkaVadasz.pdb
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.AssemblyReference.cache
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.Properties.Resources.resources
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.GenerateResource.cache
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.CoreCompileInputs.cache
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.exe
+C:\Users\gabor\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.pdb
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\bin\Debug\BirkaVadasz.exe.config
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\bin\Debug\BirkaVadasz.exe
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\bin\Debug\BirkaVadasz.pdb
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.exe
+C:\Users\TUF Gaming\source\repos\BirkaVadasz\BirkaVadasz\obj\Debug\BirkaVadasz.pdb

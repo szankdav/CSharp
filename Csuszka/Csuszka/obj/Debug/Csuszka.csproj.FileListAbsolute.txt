@@ -1,0 +1,13 @@
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\bin\Debug\Csuszka.exe.config
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\bin\Debug\Csuszka.exe
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\bin\Debug\Csuszka.pdb
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\bin\Debug\CsuszkaGomb.dll
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\bin\Debug\CsuszkaGomb.pdb
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.Form1.resources
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.csproj.CopyComplete
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.exe
+C:\Users\TUF Gaming\source\repos\Csuszka\Csuszka\obj\Debug\Csuszka.pdb

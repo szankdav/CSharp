@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\bin\Debug\NegyAlapMuvelet.exe.config
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\bin\Debug\NegyAlapMuvelet.exe
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\bin\Debug\NegyAlapMuvelet.pdb
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\obj\Debug\NegyAlapMuvelet.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\obj\Debug\NegyAlapMuvelet.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\obj\Debug\NegyAlapMuvelet.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\obj\Debug\NegyAlapMuvelet.exe
+C:\Users\TUF Gaming\source\repos\NegyAlapMuvelet\NegyAlapMuvelet\obj\Debug\NegyAlapMuvelet.pdb

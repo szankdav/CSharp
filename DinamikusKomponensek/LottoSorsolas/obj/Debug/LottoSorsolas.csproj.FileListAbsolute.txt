@@ -1,0 +1,10 @@
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\bin\Debug\LottoSorsolas.exe.config
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\bin\Debug\LottoSorsolas.exe
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\bin\Debug\LottoSorsolas.pdb
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\obj\Debug\LottoSorsolas.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\obj\Debug\LottoSorsolas.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\obj\Debug\LottoSorsolas.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\obj\Debug\LottoSorsolas.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\obj\Debug\LottoSorsolas.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\obj\Debug\LottoSorsolas.exe
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\LottoSorsolas\obj\Debug\LottoSorsolas.pdb

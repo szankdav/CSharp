@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\bin\Debug\03057_HF_Versenyzok.exe.config
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\bin\Debug\03057_HF_Versenyzok.exe
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\bin\Debug\03057_HF_Versenyzok.pdb
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\obj\Debug\03057_HF_Versenyzok.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\obj\Debug\03057_HF_Versenyzok.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\obj\Debug\03057_HF_Versenyzok.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\obj\Debug\03057_HF_Versenyzok.exe
+C:\Users\TUF Gaming\source\repos\HF_06.28\03057_HF_Versenyzok\obj\Debug\03057_HF_Versenyzok.pdb

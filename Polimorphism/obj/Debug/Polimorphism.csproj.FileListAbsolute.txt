@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\Polimorphism\bin\Debug\Polimorphism.exe.config
+C:\Users\TUF Gaming\source\repos\Polimorphism\bin\Debug\Polimorphism.exe
+C:\Users\TUF Gaming\source\repos\Polimorphism\bin\Debug\Polimorphism.pdb
+C:\Users\TUF Gaming\source\repos\Polimorphism\obj\Debug\Polimorphism.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Polimorphism\obj\Debug\Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Polimorphism\obj\Debug\Polimorphism.exe
+C:\Users\TUF Gaming\source\repos\Polimorphism\obj\Debug\Polimorphism.pdb

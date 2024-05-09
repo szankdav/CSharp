@@ -1,0 +1,15 @@
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\bin\Debug\FelhasznalokDB.exe.config
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\bin\Debug\FelhasznalokDB.exe
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\bin\Debug\FelhasznalokDB.pdb
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.exe
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.pdb
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\bin\Debug\FelhasznalokDataSet.Designer.cs
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\bin\Debug\FelhasznalokDataSet.xsc
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\bin\Debug\FelhasznalokDataSet.xsd
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\bin\Debug\FelhasznalokDataSet.xss
+C:\Users\TUF Gaming\source\repos\FelhasznalokDB\FelhasznalokDB\obj\Debug\FelhasznalokDB.FrmFelhasznalo.resources

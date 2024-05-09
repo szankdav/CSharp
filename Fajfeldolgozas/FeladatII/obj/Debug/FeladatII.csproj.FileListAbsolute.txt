@@ -1,0 +1,8 @@
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\bin\Debug\FeladatII.exe.config
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\bin\Debug\FeladatII.exe
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\bin\Debug\FeladatII.pdb
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\obj\Debug\FeladatII.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\obj\Debug\FeladatII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\obj\Debug\FeladatII.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\obj\Debug\FeladatII.exe
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatII\obj\Debug\FeladatII.pdb

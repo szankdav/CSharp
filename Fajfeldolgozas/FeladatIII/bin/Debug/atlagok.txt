@@ -1,0 +1,12 @@
+﻿Szilvi
+4,6
+Dávid
+4,1
+Mufi
+3,2
+Laci
+2,6
+Lujza
+3
+lujza
+4

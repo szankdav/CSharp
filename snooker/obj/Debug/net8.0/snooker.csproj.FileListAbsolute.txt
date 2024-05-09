@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\snooker\bin\Debug\net8.0\snooker.exe
+C:\Users\TUF Gaming\source\repos\snooker\bin\Debug\net8.0\snooker.deps.json
+C:\Users\TUF Gaming\source\repos\snooker\bin\Debug\net8.0\snooker.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\snooker\bin\Debug\net8.0\snooker.dll
+C:\Users\TUF Gaming\source\repos\snooker\bin\Debug\net8.0\snooker.pdb
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\snooker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\snooker.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\snooker.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\snooker.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\snooker.dll
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\refint\snooker.dll
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\snooker.pdb
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\snooker.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\snooker\obj\Debug\net8.0\ref\snooker.dll

@@ -1,0 +1,8 @@
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\bin\Debug\FeladatVII.exe.config
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\bin\Debug\FeladatVII.exe
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\bin\Debug\FeladatVII.pdb
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\obj\Debug\FeladatVII.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\obj\Debug\FeladatVII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\obj\Debug\FeladatVII.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\obj\Debug\FeladatVII.exe
+C:\Users\Developer\source\repos\ConsoleAppGyujto\FeladatVII\obj\Debug\FeladatVII.pdb

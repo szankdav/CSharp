@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\bin\Debug\ViragRendelesek.exe.config
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\bin\Debug\ViragRendelesek.exe
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\bin\Debug\ViragRendelesek.pdb
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.exe
+C:\Users\TUF Gaming\source\repos\ViragRendelesek\ViragRendelesek\obj\Debug\ViragRendelesek.pdb

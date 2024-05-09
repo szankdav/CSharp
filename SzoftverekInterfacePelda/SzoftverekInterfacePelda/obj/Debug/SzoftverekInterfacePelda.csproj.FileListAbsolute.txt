@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\bin\Debug\SzoftverekInterfacePelda.exe.config
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\bin\Debug\SzoftverekInterfacePelda.exe
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\bin\Debug\SzoftverekInterfacePelda.pdb
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.FrmSzoftver.resources
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.exe
+C:\Users\TUF Gaming\source\repos\SzoftverekInterfacePelda\SzoftverekInterfacePelda\obj\Debug\SzoftverekInterfacePelda.pdb

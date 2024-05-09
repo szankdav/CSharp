@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\Busojaras\bin\Debug\Busojaras.exe.config
+C:\Users\TUF Gaming\source\repos\Busojaras\bin\Debug\Busojaras.exe
+C:\Users\TUF Gaming\source\repos\Busojaras\bin\Debug\Busojaras.pdb
+C:\Users\TUF Gaming\source\repos\Busojaras\obj\Debug\Busojaras.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Busojaras\obj\Debug\Busojaras.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Busojaras\obj\Debug\Busojaras.exe
+C:\Users\TUF Gaming\source\repos\Busojaras\obj\Debug\Busojaras.pdb

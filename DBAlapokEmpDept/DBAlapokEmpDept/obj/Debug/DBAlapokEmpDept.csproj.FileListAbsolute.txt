@@ -1,0 +1,10 @@
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\bin\Debug\DBAlapokEmpDept.exe.config
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\bin\Debug\DBAlapokEmpDept.exe
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\bin\Debug\DBAlapokEmpDept.pdb
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\obj\Debug\DBAlapokEmpDept.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\obj\Debug\DBAlapokEmpDept.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\obj\Debug\DBAlapokEmpDept.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\obj\Debug\DBAlapokEmpDept.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\obj\Debug\DBAlapokEmpDept.exe
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\obj\Debug\DBAlapokEmpDept.pdb
+C:\Users\TUF Gaming\source\repos\DBAlapokEmpDept\DBAlapokEmpDept\obj\Debug\DBAlapokEmpDept.Form1.resources

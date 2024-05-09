@@ -1,0 +1,15 @@
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\bin\Debug\BooksDataSet.Designer.cs
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\bin\Debug\BooksDataSet.xsc
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\bin\Debug\BooksDataSet.xsd
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\bin\Debug\BooksDataSet.xss
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\bin\Debug\KonyvNyilvantarto.exe.config
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\bin\Debug\KonyvNyilvantarto.exe
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\bin\Debug\KonyvNyilvantarto.pdb
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.FrmKonyv.resources
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.exe
+C:\Users\TUF Gaming\source\repos\KonyvNyilvantarto\KonyvNyilvantarto\obj\Debug\KonyvNyilvantarto.pdb

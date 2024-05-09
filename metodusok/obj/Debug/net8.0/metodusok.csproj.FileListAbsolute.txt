@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\metodusok\bin\Debug\net8.0\metodusok.exe
+C:\Users\TUF Gaming\source\repos\metodusok\bin\Debug\net8.0\metodusok.deps.json
+C:\Users\TUF Gaming\source\repos\metodusok\bin\Debug\net8.0\metodusok.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\metodusok\bin\Debug\net8.0\metodusok.dll
+C:\Users\TUF Gaming\source\repos\metodusok\bin\Debug\net8.0\metodusok.pdb
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\metodusok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\metodusok.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\metodusok.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\metodusok.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\metodusok.dll
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\refint\metodusok.dll
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\metodusok.pdb
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\metodusok.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\metodusok\obj\Debug\net8.0\ref\metodusok.dll

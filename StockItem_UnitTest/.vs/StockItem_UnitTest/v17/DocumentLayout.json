@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5887AC-724B-436D-9A9F-F5E70B9AB61A}|StockItem_UnitTest.csproj|c:\\users\\tuf gaming\\source\\repos\\stockitem_unittest\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5887AC-724B-436D-9A9F-F5E70B9AB61A}|StockItem_UnitTest.csproj|solutionrelative:stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5887AC-724B-436D-9A9F-F5E70B9AB61A}|StockItem_UnitTest.csproj|c:\\users\\tuf gaming\\source\\repos\\stockitem_unittest\\stockitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5887AC-724B-436D-9A9F-F5E70B9AB61A}|StockItem_UnitTest.csproj|solutionrelative:stockitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F83F5D7-719A-46F7-BF19-A26B5616CBEE}|StockItem_Test\\StockItem_Test.csproj|C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\stockitem_test\\stockitem_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F83F5D7-719A-46F7-BF19-A26B5616CBEE}|StockItem_Test\\StockItem_Test.csproj|solutionrelative:stockitem_test\\stockitem_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5887AC-724B-436D-9A9F-F5E70B9AB61A}|StockItem_UnitTest.csproj|C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5887AC-724B-436D-9A9F-F5E70B9AB61A}|StockItem_UnitTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockItemException.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\StockItemException.cs",
+              "RelativeDocumentMoniker": "StockItemException.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\StockItemException.cs",
+              "RelativeToolTip": "StockItemException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:28:16.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockItem_Test.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\StockItem_Test\\StockItem_Test.cs",
+              "RelativeDocumentMoniker": "StockItem_Test\\StockItem_Test.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\StockItem_Test\\StockItem_Test.cs",
+              "RelativeToolTip": "StockItem_Test\\StockItem_Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:59:12.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\StockItem.cs",
+              "RelativeDocumentMoniker": "StockItem.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\StockItem.cs",
+              "RelativeToolTip": "StockItem.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwEAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:54:37.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\StockItem_UnitTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:54:07.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

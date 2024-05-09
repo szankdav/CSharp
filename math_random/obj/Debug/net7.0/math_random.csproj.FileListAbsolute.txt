@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\math_random\bin\Debug\net7.0\math_random.exe
+C:\Users\TUF Gaming\source\repos\math_random\bin\Debug\net7.0\math_random.deps.json
+C:\Users\TUF Gaming\source\repos\math_random\bin\Debug\net7.0\math_random.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\math_random\bin\Debug\net7.0\math_random.dll
+C:\Users\TUF Gaming\source\repos\math_random\bin\Debug\net7.0\math_random.pdb
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\math_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\math_random.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\math_random.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\math_random.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\math_random.dll
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\refint\math_random.dll
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\math_random.pdb
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\math_random.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\math_random\obj\Debug\net7.0\ref\math_random.dll

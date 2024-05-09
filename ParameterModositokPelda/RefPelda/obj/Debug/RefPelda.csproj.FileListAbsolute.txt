@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\RefPelda\bin\Debug\RefPelda.exe.config
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\RefPelda\bin\Debug\RefPelda.exe
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\RefPelda\bin\Debug\RefPelda.pdb
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\RefPelda\obj\Debug\RefPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\RefPelda\obj\Debug\RefPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\RefPelda\obj\Debug\RefPelda.exe
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\RefPelda\obj\Debug\RefPelda.pdb

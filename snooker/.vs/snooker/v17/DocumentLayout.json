@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF Gaming\\source\\repos\\snooker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1378893-82E0-46EA-98EF-0F060B79E149}|snooker.csproj|C:\\Users\\TUF Gaming\\source\\repos\\snooker\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1378893-82E0-46EA-98EF-0F060B79E149}|snooker.csproj|solutionrelative:versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1378893-82E0-46EA-98EF-0F060B79E149}|snooker.csproj|c:\\users\\tuf gaming\\source\\repos\\snooker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1378893-82E0-46EA-98EF-0F060B79E149}|snooker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\snooker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\snooker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:19:39.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\snooker\\versenyzo.cs",
+              "RelativeDocumentMoniker": "versenyzo.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\snooker\\versenyzo.cs",
+              "RelativeToolTip": "versenyzo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:56:02.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

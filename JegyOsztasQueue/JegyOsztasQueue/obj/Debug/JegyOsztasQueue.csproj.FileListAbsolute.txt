@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\bin\Debug\JegyOsztasQueue.exe.config
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\bin\Debug\JegyOsztasQueue.exe
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\bin\Debug\JegyOsztasQueue.pdb
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.FrmFeladat.resources
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.exe
+C:\Users\TUF Gaming\source\repos\JegyOsztasQueue\JegyOsztasQueue\obj\Debug\JegyOsztasQueue.pdb

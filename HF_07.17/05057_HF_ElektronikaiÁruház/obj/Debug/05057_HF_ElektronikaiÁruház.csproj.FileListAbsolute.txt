@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\bin\Debug\05057_HF_ElektronikaiÁruház.exe.config
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\bin\Debug\05057_HF_ElektronikaiÁruház.exe
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\bin\Debug\05057_HF_ElektronikaiÁruház.pdb
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\obj\Debug\05057_HF_ElektronikaiÁruház.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\obj\Debug\05057_HF_ElektronikaiÁruház.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\obj\Debug\05057_HF_ElektronikaiÁruház.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\obj\Debug\05057_HF_ElektronikaiÁruház.exe
+C:\Users\TUF Gaming\source\repos\HF_07.17\05057_HF_ElektronikaiÁruház\obj\Debug\05057_HF_ElektronikaiÁruház.pdb

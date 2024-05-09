@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05043_HF_FájlFeldolgozóOOP", "05043_HF_FájlFeldolgozóOOP\05043_HF_FájlFeldolgozóOOP.csproj", "{166D87FB-0863-4A78-ACF4-86A19C3BF3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05057_HF_ElektronikaiÁruház", "05057_HF_ElektronikaiÁruház\05057_HF_ElektronikaiÁruház.csproj", "{0A2A5D81-9C71-42DC-B5A9-DD377779B3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166D87FB-0863-4A78-ACF4-86A19C3BF3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166D87FB-0863-4A78-ACF4-86A19C3BF3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166D87FB-0863-4A78-ACF4-86A19C3BF3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166D87FB-0863-4A78-ACF4-86A19C3BF3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2A5D81-9C71-42DC-B5A9-DD377779B3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2A5D81-9C71-42DC-B5A9-DD377779B3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2A5D81-9C71-42DC-B5A9-DD377779B3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2A5D81-9C71-42DC-B5A9-DD377779B3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E9A741-59A0-4B97-A025-3A702C2D0A6B}
+	EndGlobalSection
+EndGlobal

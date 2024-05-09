@@ -1,0 +1,12 @@
+C:\Users\Develop\source\repos\HF_10.04\Gepjarmuvek\bin\Debug\Gepjarmuvek.dll
+C:\Users\Develop\source\repos\HF_10.04\Gepjarmuvek\bin\Debug\Gepjarmuvek.pdb
+C:\Users\Develop\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.csproj.AssemblyReference.cache
+C:\Users\Develop\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.csproj.CoreCompileInputs.cache
+C:\Users\Develop\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.dll
+C:\Users\Develop\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Gepjarmuvek\bin\Debug\Gepjarmuvek.dll
+C:\Users\TUF Gaming\source\repos\HF_10.04\Gepjarmuvek\bin\Debug\Gepjarmuvek.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.dll
+C:\Users\TUF Gaming\source\repos\HF_10.04\Gepjarmuvek\obj\Debug\Gepjarmuvek.pdb

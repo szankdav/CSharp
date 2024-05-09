@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\bin\Debug\ListaAtadasPelda.exe.config
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\bin\Debug\ListaAtadasPelda.exe
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\bin\Debug\ListaAtadasPelda.pdb
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.Form1.resources
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.exe
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.pdb
+C:\Users\TUF Gaming\source\repos\ListaAtadasPelda\ListaAtadasPelda\obj\Debug\ListaAtadasPelda.FromParosSzamok.resources

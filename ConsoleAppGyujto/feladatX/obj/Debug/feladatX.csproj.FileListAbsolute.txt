@@ -1,0 +1,8 @@
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\bin\Debug\feladatX.exe.config
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\bin\Debug\feladatX.exe
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\bin\Debug\feladatX.pdb
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\obj\Debug\feladatX.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\obj\Debug\feladatX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\obj\Debug\feladatX.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\obj\Debug\feladatX.exe
+C:\Users\Developer\source\repos\ConsoleAppGyujto\feladatX\obj\Debug\feladatX.pdb

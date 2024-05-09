@@ -1,0 +1,48 @@
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe.config
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.pdb
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.AssemblyReference.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmGepAlkatreszKezeles.resources
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmMain.resources
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.Properties.Resources.resources
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.GenerateResource.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.CoreCompileInputs.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.exe
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.pdb
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe.config
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.pdb
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmGepAlkatreszKezeles.resources
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.exe
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.pdb
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmLogo.resources
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmGepAlkatreszKezeles.resources
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmLogo.resources
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmMain.resources
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.Properties.Resources.resources
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.exe
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.pdb
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe.config
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe
+C:\Users\TUF Gaming\Desktop\GepAlkatreszekAbstract\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.pdb
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe.config
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.exe
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\bin\Debug\GepAlkatreszekAbstract.pdb
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmGepAlkatreszKezeles.resources
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmLogo.resources
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.exe
+C:\Users\TUF Gaming\source\repos\GepAlkatreszekAbstractICompareable\GepAlkatreszekAbstract\obj\Debug\GepAlkatreszekAbstract.pdb

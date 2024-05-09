@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\prog_tetelek\bin\Debug\net8.0\prog_tetelek.exe
+C:\Users\TUF Gaming\source\repos\prog_tetelek\bin\Debug\net8.0\prog_tetelek.deps.json
+C:\Users\TUF Gaming\source\repos\prog_tetelek\bin\Debug\net8.0\prog_tetelek.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\prog_tetelek\bin\Debug\net8.0\prog_tetelek.dll
+C:\Users\TUF Gaming\source\repos\prog_tetelek\bin\Debug\net8.0\prog_tetelek.pdb
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\prog_tetelek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\prog_tetelek.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\prog_tetelek.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\prog_tetelek.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\prog_tetelek.dll
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\refint\prog_tetelek.dll
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\prog_tetelek.pdb
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\prog_tetelek.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\prog_tetelek\obj\Debug\net8.0\ref\prog_tetelek.dll

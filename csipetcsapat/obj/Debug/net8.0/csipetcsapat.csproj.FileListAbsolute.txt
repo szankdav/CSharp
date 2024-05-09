@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\csipetcsapat\bin\Debug\net8.0\csipetcsapat.exe
+C:\Users\TUF Gaming\source\repos\csipetcsapat\bin\Debug\net8.0\csipetcsapat.deps.json
+C:\Users\TUF Gaming\source\repos\csipetcsapat\bin\Debug\net8.0\csipetcsapat.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\csipetcsapat\bin\Debug\net8.0\csipetcsapat.dll
+C:\Users\TUF Gaming\source\repos\csipetcsapat\bin\Debug\net8.0\csipetcsapat.pdb
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\csipetcsapat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\csipetcsapat.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\csipetcsapat.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\csipetcsapat.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\csipetcsapat.dll
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\refint\csipetcsapat.dll
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\csipetcsapat.pdb
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\csipetcsapat.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\csipetcsapat\obj\Debug\net8.0\ref\csipetcsapat.dll

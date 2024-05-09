@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\bin\Debug\LogokMentese.exe.config
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\bin\Debug\LogokMentese.exe
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\bin\Debug\LogokMentese.pdb
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.FrmLogokMentese.resources
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.exe
+C:\Users\TUF Gaming\source\repos\MyNotePad\LogokMentese\obj\Debug\LogokMentese.pdb

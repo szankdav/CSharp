@@ -1,0 +1,9 @@
+test_add (__main__.TestCalculator) ... ok
+test_divide (__main__.TestCalculator) ... ok
+test_multiply (__main__.TestCalculator) ... ok
+test_subtract (__main__.TestCalculator) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 5.332s
+
+OK

@@ -1,0 +1,13 @@
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\bin\Debug\Nevjegyek.exe.config
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\bin\Debug\Nevjegyek.exe
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\bin\Debug\Nevjegyek.pdb
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.FrmNevjegyek.resources
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.FrmSajatNevjegyDialogus.resources
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.exe
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.pdb
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\Nevjegyek\obj\Debug\Nevjegyek.AboutBox1.resources

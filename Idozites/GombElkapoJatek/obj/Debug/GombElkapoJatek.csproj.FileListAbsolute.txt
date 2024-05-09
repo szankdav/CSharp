@@ -1,0 +1,22 @@
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\bin\Debug\GombElkapoJatek.exe.config
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\bin\Debug\GombElkapoJatek.exe
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\bin\Debug\GombElkapoJatek.pdb
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.csproj.AssemblyReference.cache
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.Form1.resources
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.Menu.resources
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.Properties.Resources.resources
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.csproj.GenerateResource.cache
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.csproj.CoreCompileInputs.cache
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.exe
+C:\Users\Develop\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.pdb
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\bin\Debug\GombElkapoJatek.exe.config
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\bin\Debug\GombElkapoJatek.exe
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\bin\Debug\GombElkapoJatek.pdb
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.Form1.resources
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.Menu.resources
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.exe
+C:\Users\TUF Gaming\source\repos\Idozites\GombElkapoJatek\obj\Debug\GombElkapoJatek.pdb

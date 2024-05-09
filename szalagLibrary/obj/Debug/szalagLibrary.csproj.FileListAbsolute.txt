@@ -1,0 +1,6 @@
+C:\Users\TUF Gaming\source\repos\szalagLibrary\bin\Debug\szalagLibrary.dll
+C:\Users\TUF Gaming\source\repos\szalagLibrary\bin\Debug\szalagLibrary.pdb
+C:\Users\TUF Gaming\source\repos\szalagLibrary\obj\Debug\szalagLibrary.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\szalagLibrary\obj\Debug\szalagLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\szalagLibrary\obj\Debug\szalagLibrary.dll
+C:\Users\TUF Gaming\source\repos\szalagLibrary\obj\Debug\szalagLibrary.pdb

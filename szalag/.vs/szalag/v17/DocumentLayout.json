@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF Gaming\\source\\repos\\szalag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EE15CB-A7D6-473E-BF15-788A9BCA8EC9}|..\\szalagLibrary\\szalagLibrary.csproj|c:\\users\\tuf gaming\\source\\repos\\szalaglibrary\\rekeszlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E67724-516F-4C5F-91A6-EE4B167FF2A2}|szalag.csproj|c:\\users\\tuf gaming\\source\\repos\\szalag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E67724-516F-4C5F-91A6-EE4B167FF2A2}|szalag.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EE15CB-A7D6-473E-BF15-788A9BCA8EC9}|..\\szalagLibrary\\szalagLibrary.csproj|c:\\users\\tuf gaming\\source\\repos\\szalaglibrary\\rekesz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EE15CB-A7D6-473E-BF15-788A9BCA8EC9}|..\\szalagLibrary\\szalagLibrary.csproj|c:\\users\\tuf gaming\\source\\repos\\szalaglibrary\\szalag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Szalag.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\szalagLibrary\\Szalag.cs",
+              "RelativeDocumentMoniker": "..\\szalagLibrary\\Szalag.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\szalagLibrary\\Szalag.cs",
+              "RelativeToolTip": "..\\szalagLibrary\\Szalag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:58:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RekeszLogic.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\szalagLibrary\\RekeszLogic.cs",
+              "RelativeDocumentMoniker": "..\\szalagLibrary\\RekeszLogic.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\szalagLibrary\\RekeszLogic.cs",
+              "RelativeToolTip": "..\\szalagLibrary\\RekeszLogic.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:53:43.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rekesz.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\szalagLibrary\\Rekesz.cs",
+              "RelativeDocumentMoniker": "..\\szalagLibrary\\Rekesz.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\szalagLibrary\\Rekesz.cs",
+              "RelativeToolTip": "..\\szalagLibrary\\Rekesz.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:51:06.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\szalag\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\szalag\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:50:47.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

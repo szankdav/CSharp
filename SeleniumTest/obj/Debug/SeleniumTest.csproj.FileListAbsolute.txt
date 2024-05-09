@@ -1,0 +1,15 @@
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TUF Gaming\source\repos\SeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\TUF Gaming\source\repos\SeleniumTest\obj\Debug\SeleniumTest.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\SeleniumTest\obj\Debug\SeleniumTest.csproj.CopyComplete
+C:\Users\TUF Gaming\source\repos\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Users\TUF Gaming\source\repos\SeleniumTest\obj\Debug\SeleniumTest.pdb

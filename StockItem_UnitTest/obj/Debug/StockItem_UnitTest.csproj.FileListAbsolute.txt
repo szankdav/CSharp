@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\StockItem_UnitTest\bin\Debug\StockItem_UnitTest.exe.config
+C:\Users\TUF Gaming\source\repos\StockItem_UnitTest\bin\Debug\StockItem_UnitTest.exe
+C:\Users\TUF Gaming\source\repos\StockItem_UnitTest\bin\Debug\StockItem_UnitTest.pdb
+C:\Users\TUF Gaming\source\repos\StockItem_UnitTest\obj\Debug\StockItem_UnitTest.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\StockItem_UnitTest\obj\Debug\StockItem_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\StockItem_UnitTest\obj\Debug\StockItem_UnitTest.exe
+C:\Users\TUF Gaming\source\repos\StockItem_UnitTest\obj\Debug\StockItem_UnitTest.pdb

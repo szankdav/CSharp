@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\model\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:model\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|c:\\users\\tuf gaming\\source\\repos\\mintavizsga\\_utils\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:_utils\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\model\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:model\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\model\\productcategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:model\\productcategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\view\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:view\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\model\\vatcategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:model\\vatcategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\model\\vatcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:model\\vatcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\view\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FE04C3B-355A-445E-967B-4169037D2E7D}|MintaVizsga.csproj|solutionrelative:view\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\View\\FrmMain.cs",
+              "RelativeDocumentMoniker": "View\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\View\\FrmMain.cs",
+              "RelativeToolTip": "View\\FrmMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-10T15:29:30.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VatCategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\VatCategoryDAO.cs",
+              "RelativeDocumentMoniker": "Model\\VatCategoryDAO.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\VatCategoryDAO.cs",
+              "RelativeToolTip": "Model\\VatCategoryDAO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAewCwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T14:56:40.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VatCategory.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\VatCategory.cs",
+              "RelativeDocumentMoniker": "Model\\VatCategory.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\VatCategory.cs",
+              "RelativeToolTip": "Model\\VatCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T15:54:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\_utils\\Database.cs",
+              "RelativeDocumentMoniker": "_utils\\Database.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\_utils\\Database.cs",
+              "RelativeToolTip": "_utils\\Database.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T15:18:08.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "Model\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\ProductDAO.cs",
+              "RelativeToolTip": "Model\\ProductDAO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T16:01:45.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\View\\FrmAddProduct.cs",
+              "RelativeDocumentMoniker": "View\\FrmAddProduct.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\View\\FrmAddProduct.cs",
+              "RelativeToolTip": "View\\FrmAddProduct.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-11T14:43:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T15:47:45.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Model\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\ProductCategory.cs",
+              "RelativeToolTip": "Model\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T15:58:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\ProductCategoryDAO.cs",
+              "RelativeDocumentMoniker": "Model\\ProductCategoryDAO.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\Model\\ProductCategoryDAO.cs",
+              "RelativeToolTip": "Model\\ProductCategoryDAO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAewCoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T14:57:14.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\View\\FrmAddProduct.cs",
+              "RelativeDocumentMoniker": "View\\FrmAddProduct.cs",
+              "ToolTip": "C:\\Users\\TUF Gaming\\source\\repos\\MintaVizsga\\View\\FrmAddProduct.cs [Design]",
+              "RelativeToolTip": "View\\FrmAddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-11T17:15:27.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

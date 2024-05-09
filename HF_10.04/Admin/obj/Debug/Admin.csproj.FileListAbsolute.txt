@@ -1,0 +1,30 @@
+C:\Users\Develop\source\repos\HF_10.04\Admin\bin\Debug\Admin.exe.config
+C:\Users\Develop\source\repos\HF_10.04\Admin\bin\Debug\Admin.exe
+C:\Users\Develop\source\repos\HF_10.04\Admin\bin\Debug\Admin.pdb
+C:\Users\Develop\source\repos\HF_10.04\Admin\bin\Debug\Gepjarmuvek.dll
+C:\Users\Develop\source\repos\HF_10.04\Admin\bin\Debug\Gepjarmuvek.pdb
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.FrmMain.resources
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.FrmUjFelhasznalo.resources
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.FrmUjJarmu.resources
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.exe
+C:\Users\Develop\source\repos\HF_10.04\Admin\obj\Debug\Admin.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\bin\Debug\Admin.exe.config
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\bin\Debug\Admin.exe
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\bin\Debug\Admin.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\bin\Debug\Gepjarmuvek.dll
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\bin\Debug\Gepjarmuvek.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.FrmUjFelhasznalo.resources
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.FrmUjJarmu.resources
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.exe
+C:\Users\TUF Gaming\source\repos\HF_10.04\Admin\obj\Debug\Admin.pdb

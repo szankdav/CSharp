@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\bin\Debug\Forms_FeladatI.exe.config
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\bin\Debug\Forms_FeladatI.exe
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\bin\Debug\Forms_FeladatI.pdb
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.Form1.resources
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.exe
+C:\Users\TUF Gaming\source\repos\Forms_FeladatI\Forms_FeladatI\obj\Debug\Forms_FeladatI.pdb

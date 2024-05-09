@@ -1,0 +1,8 @@
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\bin\Debug\NevekEsJegyek.exe.config
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\bin\Debug\NevekEsJegyek.exe
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\bin\Debug\NevekEsJegyek.pdb
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\obj\Debug\NevekEsJegyek.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\obj\Debug\NevekEsJegyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\obj\Debug\NevekEsJegyek.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\obj\Debug\NevekEsJegyek.exe
+C:\Users\Developer\source\repos\ConsoleAppGyujto\NevekEsJegyek\obj\Debug\NevekEsJegyek.pdb

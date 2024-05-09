@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\OutPelda\obj\Debug\OutPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\OutPelda\obj\Debug\OutPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\OutPelda\bin\Debug\OutPelda.exe.config
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\OutPelda\bin\Debug\OutPelda.exe
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\OutPelda\bin\Debug\OutPelda.pdb
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\OutPelda\obj\Debug\OutPelda.exe
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\OutPelda\obj\Debug\OutPelda.pdb

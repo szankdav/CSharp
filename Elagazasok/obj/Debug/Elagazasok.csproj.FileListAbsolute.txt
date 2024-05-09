@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\Elagazasok\bin\Debug\Elagazasok.exe.config
+C:\Users\TUF Gaming\source\repos\Elagazasok\bin\Debug\Elagazasok.exe
+C:\Users\TUF Gaming\source\repos\Elagazasok\bin\Debug\Elagazasok.pdb
+C:\Users\TUF Gaming\source\repos\Elagazasok\obj\Debug\Elagazasok.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Elagazasok\obj\Debug\Elagazasok.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Elagazasok\obj\Debug\Elagazasok.exe
+C:\Users\TUF Gaming\source\repos\Elagazasok\obj\Debug\Elagazasok.pdb

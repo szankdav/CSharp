@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\SocketDemoExample\bin\Debug\SocketDemoExample.exe.config
+C:\Users\TUF Gaming\source\repos\SocketDemoExample\bin\Debug\SocketDemoExample.exe
+C:\Users\TUF Gaming\source\repos\SocketDemoExample\bin\Debug\SocketDemoExample.pdb
+C:\Users\TUF Gaming\source\repos\SocketDemoExample\obj\Debug\SocketDemoExample.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\SocketDemoExample\obj\Debug\SocketDemoExample.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\SocketDemoExample\obj\Debug\SocketDemoExample.exe
+C:\Users\TUF Gaming\source\repos\SocketDemoExample\obj\Debug\SocketDemoExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\LINQPelda\bin\Debug\LINQPelda.exe.config
+C:\Users\TUF Gaming\source\repos\LINQPelda\bin\Debug\LINQPelda.exe
+C:\Users\TUF Gaming\source\repos\LINQPelda\bin\Debug\LINQPelda.pdb
+C:\Users\TUF Gaming\source\repos\LINQPelda\obj\Debug\LINQPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\LINQPelda\obj\Debug\LINQPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\LINQPelda\obj\Debug\LINQPelda.exe
+C:\Users\TUF Gaming\source\repos\LINQPelda\obj\Debug\LINQPelda.pdb

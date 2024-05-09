@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\bin\Debug\stringChallenge.exe.config
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\bin\Debug\stringChallenge.exe
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\bin\Debug\stringChallenge.pdb
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\obj\Debug\stringChallenge.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\obj\Debug\stringChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\obj\Debug\stringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\obj\Debug\stringChallenge.exe
+C:\Users\TUF Gaming\source\repos\HelloWorld\stringChallenge\obj\Debug\stringChallenge.pdb

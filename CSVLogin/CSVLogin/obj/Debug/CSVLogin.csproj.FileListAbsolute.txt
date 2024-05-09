@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\bin\Debug\CSVLogin.exe.config
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\bin\Debug\CSVLogin.exe
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\bin\Debug\CSVLogin.pdb
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\obj\Debug\CSVLogin.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\obj\Debug\CSVLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\obj\Debug\CSVLogin.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\obj\Debug\CSVLogin.exe
+C:\Users\TUF Gaming\source\repos\CSVLogin\CSVLogin\obj\Debug\CSVLogin.pdb

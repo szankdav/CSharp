@@ -1,0 +1,31 @@
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.exe.config
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.exe
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.pdb
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.AssemblyReference.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.FrmMain.resources
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.Properties.Resources.resources
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.GenerateResource.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.CoreCompileInputs.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.exe
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.pdb
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.exe.config
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.exe
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.pdb
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.AssemblyReference.cache
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.FrmMain.resources
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.Properties.Resources.resources
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.GenerateResource.cache
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.CoreCompileInputs.cache
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.exe
+C:\Users\Develop\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.pdb
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.exe.config
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.exe
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\bin\Debug\FeladatListaDinamikus.pdb
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.exe
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\FeladatListaDinamikus\FeladatListaDinamikus\obj\Debug\FeladatListaDinamikus.pdb

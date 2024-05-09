@@ -1,0 +1,20 @@
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\bin\Debug\Bombajatek.exe.config
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\bin\Debug\Bombajatek.exe
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\bin\Debug\Bombajatek.pdb
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.Form1.resources
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.exe
+C:\Users\TUF Gaming\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.pdb
+C:\Users\Develop\source\repos\Idozites\Bombajatek\bin\Debug\Bombajatek.exe.config
+C:\Users\Develop\source\repos\Idozites\Bombajatek\bin\Debug\Bombajatek.exe
+C:\Users\Develop\source\repos\Idozites\Bombajatek\bin\Debug\Bombajatek.pdb
+C:\Users\Develop\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.csproj.AssemblyReference.cache
+C:\Users\Develop\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.Form1.resources
+C:\Users\Develop\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.Properties.Resources.resources
+C:\Users\Develop\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.csproj.GenerateResource.cache
+C:\Users\Develop\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.csproj.CoreCompileInputs.cache
+C:\Users\Develop\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.exe
+C:\Users\Develop\source\repos\Idozites\Bombajatek\obj\Debug\Bombajatek.pdb

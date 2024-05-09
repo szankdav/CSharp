@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\bin\Debug\feladatV.exe.config
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\bin\Debug\feladatV.exe
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\bin\Debug\feladatV.pdb
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\obj\Debug\feladatV.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\obj\Debug\feladatV.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\obj\Debug\feladatV.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\obj\Debug\feladatV.exe
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\feladatV\obj\Debug\feladatV.pdb

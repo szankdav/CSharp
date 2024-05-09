@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\InPelda\bin\Debug\InPelda.exe.config
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\InPelda\bin\Debug\InPelda.exe
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\InPelda\bin\Debug\InPelda.pdb
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\InPelda\obj\Debug\InPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\InPelda\obj\Debug\InPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\InPelda\obj\Debug\InPelda.exe
+C:\Users\TUF Gaming\source\repos\ParameterModositokPelda\InPelda\obj\Debug\InPelda.pdb

@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\cukraszda\bin\Debug\net8.0\cukraszda.exe
+C:\Users\TUF Gaming\source\repos\cukraszda\bin\Debug\net8.0\cukraszda.deps.json
+C:\Users\TUF Gaming\source\repos\cukraszda\bin\Debug\net8.0\cukraszda.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\cukraszda\bin\Debug\net8.0\cukraszda.dll
+C:\Users\TUF Gaming\source\repos\cukraszda\bin\Debug\net8.0\cukraszda.pdb
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\cukraszda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\cukraszda.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\cukraszda.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\cukraszda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\cukraszda.dll
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\refint\cukraszda.dll
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\cukraszda.pdb
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\cukraszda.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\cukraszda\obj\Debug\net8.0\ref\cukraszda.dll

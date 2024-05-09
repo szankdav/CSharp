@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\LinearisKereses\LinearisKeresesDelegateGenerikus\bin\Debug\LinearisKeresesDelegateGenerikus.exe.config
+C:\Users\TUF Gaming\source\repos\LinearisKereses\LinearisKeresesDelegateGenerikus\bin\Debug\LinearisKeresesDelegateGenerikus.exe
+C:\Users\TUF Gaming\source\repos\LinearisKereses\LinearisKeresesDelegateGenerikus\bin\Debug\LinearisKeresesDelegateGenerikus.pdb
+C:\Users\TUF Gaming\source\repos\LinearisKereses\LinearisKeresesDelegateGenerikus\obj\Debug\LinearisKeresesDelegateGenerikus.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\LinearisKereses\LinearisKeresesDelegateGenerikus\obj\Debug\LinearisKeresesDelegateGenerikus.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\LinearisKereses\LinearisKeresesDelegateGenerikus\obj\Debug\LinearisKeresesDelegateGenerikus.exe
+C:\Users\TUF Gaming\source\repos\LinearisKereses\LinearisKeresesDelegateGenerikus\obj\Debug\LinearisKeresesDelegateGenerikus.pdb

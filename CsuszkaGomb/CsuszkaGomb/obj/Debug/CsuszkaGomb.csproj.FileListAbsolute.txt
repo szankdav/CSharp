@@ -1,0 +1,6 @@
+C:\Users\TUF Gaming\source\repos\CsuszkaGomb\CsuszkaGomb\bin\Debug\CsuszkaGomb.dll
+C:\Users\TUF Gaming\source\repos\CsuszkaGomb\CsuszkaGomb\bin\Debug\CsuszkaGomb.pdb
+C:\Users\TUF Gaming\source\repos\CsuszkaGomb\CsuszkaGomb\obj\Debug\CsuszkaGomb.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\CsuszkaGomb\CsuszkaGomb\obj\Debug\CsuszkaGomb.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\CsuszkaGomb\CsuszkaGomb\obj\Debug\CsuszkaGomb.dll
+C:\Users\TUF Gaming\source\repos\CsuszkaGomb\CsuszkaGomb\obj\Debug\CsuszkaGomb.pdb

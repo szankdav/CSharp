@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\for_feladatok\bin\Debug\net8.0\for_feladatok.exe
+C:\Users\TUF Gaming\source\repos\for_feladatok\bin\Debug\net8.0\for_feladatok.deps.json
+C:\Users\TUF Gaming\source\repos\for_feladatok\bin\Debug\net8.0\for_feladatok.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\for_feladatok\bin\Debug\net8.0\for_feladatok.dll
+C:\Users\TUF Gaming\source\repos\for_feladatok\bin\Debug\net8.0\for_feladatok.pdb
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\for_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\for_feladatok.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\for_feladatok.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\for_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\for_feladatok.dll
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\refint\for_feladatok.dll
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\for_feladatok.pdb
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\for_feladatok.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\for_feladatok\obj\Debug\net8.0\ref\for_feladatok.dll

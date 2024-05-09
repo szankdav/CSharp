@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\ThreadDemoExample3\bin\Debug\ThreadDemoExample3.exe.config
+C:\Users\TUF Gaming\source\repos\ThreadDemoExample3\bin\Debug\ThreadDemoExample3.exe
+C:\Users\TUF Gaming\source\repos\ThreadDemoExample3\bin\Debug\ThreadDemoExample3.pdb
+C:\Users\TUF Gaming\source\repos\ThreadDemoExample3\obj\Debug\ThreadDemoExample3.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ThreadDemoExample3\obj\Debug\ThreadDemoExample3.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ThreadDemoExample3\obj\Debug\ThreadDemoExample3.exe
+C:\Users\TUF Gaming\source\repos\ThreadDemoExample3\obj\Debug\ThreadDemoExample3.pdb

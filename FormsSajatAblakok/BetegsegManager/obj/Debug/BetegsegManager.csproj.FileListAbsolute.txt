@@ -1,0 +1,12 @@
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\bin\Debug\BetegsegManager.exe.config
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\bin\Debug\BetegsegManager.exe
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\bin\Debug\BetegsegManager.pdb
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.exe
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.pdb
+C:\Users\TUF Gaming\source\repos\FormsSajatAblakok\BetegsegManager\obj\Debug\BetegsegManager.FrmBetegseg.resources

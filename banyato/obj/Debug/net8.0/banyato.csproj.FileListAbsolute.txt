@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\banyato\bin\Debug\net8.0\banyato.exe
+C:\Users\TUF Gaming\source\repos\banyato\bin\Debug\net8.0\banyato.deps.json
+C:\Users\TUF Gaming\source\repos\banyato\bin\Debug\net8.0\banyato.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\banyato\bin\Debug\net8.0\banyato.dll
+C:\Users\TUF Gaming\source\repos\banyato\bin\Debug\net8.0\banyato.pdb
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\banyato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\banyato.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\banyato.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\banyato.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\banyato.dll
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\refint\banyato.dll
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\banyato.pdb
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\banyato.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\banyato\obj\Debug\net8.0\ref\banyato.dll

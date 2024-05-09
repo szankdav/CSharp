@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KeruletTeruletSzamitas</name>
+    </assembly>
+    <members>
+        <member name="T:KeruletTeruletSzamitas.KeruletTerulet">
+            <summary>
+            Alapvető geometriai alakzatok kerületét és területét kiszámító funkció osztály
+            </summary>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Kerulet(System.Double)">
+            <summary>
+            A négyzet kerületét kiszámító funkció
+            </summary>
+            <param name="a">A négyzet egyik oldala</param>
+            <returns>A négyzet kerülete</returns>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Kerulet(System.Double,System.Double)">
+            <summary>
+            A téglalap kerületét kiszámító funckió
+            </summary>
+            <param name="a">A téglalap egyik oldala</param>
+            <param name="b">A téglalap másik oldala</param>
+            <returns>A téglalap kerülete</returns>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Kerulet(System.Double,System.Double,System.Double)">
+            <summary>
+            A háromszög kerületét kiszámító funkció
+            </summary>
+            <param name="a">A háromszög A oldala</param>
+            <param name="b">A háromszög B oldala</param>
+            <param name="c">A háromszög C oldala</param>
+            <returns>A háromszög kerülete</returns>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Kerulet(System.Double,System.String)">
+            <summary>
+            A kör kerületét kiszámító funkció
+            </summary>
+            <param name="r">A kör sugara</param>
+            <param name="kor">Megkülönböztetés</param>
+            <returns>A kör kerülete</returns>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Terulet(System.Double,System.Double)">
+            <summary>
+            A téglalap területét kiszámító funkció
+            </summary>
+            <param name="a">A téglalap A oldala</param>
+            <param name="b">A téglalap B oldala</param>
+            <returns>A téglalap területe</returns>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Terulet(System.Double)">
+            <summary>
+            A négyzet területét kiszámító funkció
+            </summary>
+            <param name="a">A négyzet A oldala</param>
+            <returns>A négyzet területe</returns>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Terulet(System.Double,System.String)">
+            <summary>
+            A kör területét kiszámító funkció
+            </summary>
+            <param name="r">A kör sugara</param>
+            <returns>A kör területe</returns>
+        </member>
+        <member name="M:KeruletTeruletSzamitas.KeruletTerulet.Terulet(System.Double,System.Double,System.String)">
+            <summary>
+            A háromszög területét kiszámító funkció
+            </summary>
+            <param name="a">A háromszög A oldala</param>
+            <param name="m">A háromszög A oldalához tartozó magasság</param>
+            <param name="haromszog"></param>
+            <returns>A háromszög területe</returns>
+        </member>
+    </members>
+</doc>

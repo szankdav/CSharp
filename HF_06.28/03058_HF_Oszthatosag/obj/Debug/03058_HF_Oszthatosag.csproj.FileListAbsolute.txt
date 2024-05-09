@@ -1,0 +1,15 @@
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\bin\Debug\03058_HF_Oszthatosag.exe.config
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\bin\Debug\03058_HF_Oszthatosag.exe
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\bin\Debug\03058_HF_Oszthatosag.pdb
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.exe
+C:\Users\TUF Gaming\source\repos\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.pdb
+P:\SzankovszkyDávid\HF_06.28\03058_HF_Oszthatosag\bin\Debug\03058_HF_Oszthatosag.exe.config
+P:\SzankovszkyDávid\HF_06.28\03058_HF_Oszthatosag\bin\Debug\03058_HF_Oszthatosag.exe
+P:\SzankovszkyDávid\HF_06.28\03058_HF_Oszthatosag\bin\Debug\03058_HF_Oszthatosag.pdb
+P:\SzankovszkyDávid\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.csproj.AssemblyReference.cache
+P:\SzankovszkyDávid\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.csproj.CoreCompileInputs.cache
+P:\SzankovszkyDávid\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.exe
+P:\SzankovszkyDávid\HF_06.28\03058_HF_Oszthatosag\obj\Debug\03058_HF_Oszthatosag.pdb

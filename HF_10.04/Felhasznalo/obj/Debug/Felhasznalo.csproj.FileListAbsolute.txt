@@ -1,0 +1,23 @@
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\bin\Debug\Felhasznalo.exe.config
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\bin\Debug\Felhasznalo.exe
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\bin\Debug\Felhasznalo.pdb
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.csproj.AssemblyReference.cache
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.Properties.Resources.resources
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.csproj.GenerateResource.cache
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.csproj.CoreCompileInputs.cache
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.exe
+C:\Users\Develop\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.FrmBejelentkezes.resources
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\bin\Debug\Felhasznalo.exe.config
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\bin\Debug\Felhasznalo.exe
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\bin\Debug\Felhasznalo.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\bin\Debug\Gepjarmuvek.dll
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\bin\Debug\Gepjarmuvek.pdb
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.csproj.CopyComplete
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.exe
+C:\Users\TUF Gaming\source\repos\HF_10.04\Felhasznalo\obj\Debug\Felhasznalo.pdb

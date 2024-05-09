@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\ListaVirtualAndOverride\ListaVirtualAndOverride\bin\Debug\ListaVirtualAndOverride.exe.config
+C:\Users\TUF Gaming\source\repos\ListaVirtualAndOverride\ListaVirtualAndOverride\bin\Debug\ListaVirtualAndOverride.exe
+C:\Users\TUF Gaming\source\repos\ListaVirtualAndOverride\ListaVirtualAndOverride\bin\Debug\ListaVirtualAndOverride.pdb
+C:\Users\TUF Gaming\source\repos\ListaVirtualAndOverride\ListaVirtualAndOverride\obj\Debug\ListaVirtualAndOverride.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ListaVirtualAndOverride\ListaVirtualAndOverride\obj\Debug\ListaVirtualAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ListaVirtualAndOverride\ListaVirtualAndOverride\obj\Debug\ListaVirtualAndOverride.exe
+C:\Users\TUF Gaming\source\repos\ListaVirtualAndOverride\ListaVirtualAndOverride\obj\Debug\ListaVirtualAndOverride.pdb

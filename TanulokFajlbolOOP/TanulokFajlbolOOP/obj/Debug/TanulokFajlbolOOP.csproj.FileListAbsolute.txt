@@ -1,0 +1,16 @@
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\bin\Debug\TanulokFajlbolOOP.exe.config
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\bin\Debug\TanulokFajlbolOOP.exe
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\bin\Debug\TanulokFajlbolOOP.pdb
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.csproj.AssemblyReference.cache
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.csproj.CoreCompileInputs.cache
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.exe
+C:\Users\gabor\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.pdb
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\bin\Debug\TanulokFajlbolOOP.exe.config
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\bin\Debug\TanulokFajlbolOOP.exe
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\bin\Debug\TanulokFajlbolOOP.pdb
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.exe
+C:\Users\TUF Gaming\source\repos\TanulokFajlbolOOP\TanulokFajlbolOOP\obj\Debug\TanulokFajlbolOOP.pdb

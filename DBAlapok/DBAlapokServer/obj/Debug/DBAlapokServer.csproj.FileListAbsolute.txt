@@ -1,0 +1,9 @@
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\bin\Debug\DBAlapokServer.exe.config
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\bin\Debug\DBAlapokServer.exe
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\bin\Debug\DBAlapokServer.pdb
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\obj\Debug\DBAlapokServer.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\obj\Debug\DBAlapokServer.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\obj\Debug\DBAlapokServer.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\obj\Debug\DBAlapokServer.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\obj\Debug\DBAlapokServer.exe
+C:\Users\TUF Gaming\source\repos\DBAlapok\DBAlapokServer\obj\Debug\DBAlapokServer.pdb

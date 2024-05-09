@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\EuroJackpotRandom\obj\Debug\EuroJackpotRandom.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\EuroJackpotRandom\obj\Debug\EuroJackpotRandom.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\EuroJackpotRandom\bin\Debug\EuroJackpotRandom.exe.config
+C:\Users\TUF Gaming\source\repos\EuroJackpotRandom\bin\Debug\EuroJackpotRandom.exe
+C:\Users\TUF Gaming\source\repos\EuroJackpotRandom\bin\Debug\EuroJackpotRandom.pdb
+C:\Users\TUF Gaming\source\repos\EuroJackpotRandom\obj\Debug\EuroJackpotRandom.exe
+C:\Users\TUF Gaming\source\repos\EuroJackpotRandom\obj\Debug\EuroJackpotRandom.pdb

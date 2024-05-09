@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04037_OF_Emberek", "04037_OF_Emberek\04037_OF_Emberek.csproj", "{40C07F0A-1183-4DAE-B881-DD5EBCEB4233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04038_HF_Szovegszerkeszto", "04038_HF_Szovegszerkeszto\04038_HF_Szovegszerkeszto.csproj", "{73B5D22B-64F9-4BBF-9E85-48A5BF76D0DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C07F0A-1183-4DAE-B881-DD5EBCEB4233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C07F0A-1183-4DAE-B881-DD5EBCEB4233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C07F0A-1183-4DAE-B881-DD5EBCEB4233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C07F0A-1183-4DAE-B881-DD5EBCEB4233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B5D22B-64F9-4BBF-9E85-48A5BF76D0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B5D22B-64F9-4BBF-9E85-48A5BF76D0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B5D22B-64F9-4BBF-9E85-48A5BF76D0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B5D22B-64F9-4BBF-9E85-48A5BF76D0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6AE9E9-61D5-418E-823A-1ED28C706DC0}
+	EndGlobalSection
+EndGlobal

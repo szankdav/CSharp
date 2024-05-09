@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\gyumolcsos\bin\Debug\net8.0\gyumolcsos.exe
+C:\Users\TUF Gaming\source\repos\gyumolcsos\bin\Debug\net8.0\gyumolcsos.deps.json
+C:\Users\TUF Gaming\source\repos\gyumolcsos\bin\Debug\net8.0\gyumolcsos.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\gyumolcsos\bin\Debug\net8.0\gyumolcsos.dll
+C:\Users\TUF Gaming\source\repos\gyumolcsos\bin\Debug\net8.0\gyumolcsos.pdb
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\gyumolcsos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\gyumolcsos.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\gyumolcsos.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\gyumolcsos.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\gyumolcsos.dll
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\refint\gyumolcsos.dll
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\gyumolcsos.pdb
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\gyumolcsos.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\gyumolcsos\obj\Debug\net8.0\ref\gyumolcsos.dll

@@ -1,0 +1,17 @@
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.exe.config
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.xml
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.exe
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.pdb
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.csproj.AssemblyReference.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.csproj.CoreCompileInputs.cache
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.exe
+C:\Users\gabor.DESKTOP-FNHJIKP\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.pdb
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.exe.config
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.xml
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.exe
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\bin\Debug\KeruletTeruletSzamitas.pdb
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.csproj.AssemblyReference.cache
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.csproj.CoreCompileInputs.cache
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.exe
+C:\Users\Develop\source\repos\KeruletTeruletSzamitas\KeruletTeruletSzamitas\obj\Debug\KeruletTeruletSzamitas.pdb

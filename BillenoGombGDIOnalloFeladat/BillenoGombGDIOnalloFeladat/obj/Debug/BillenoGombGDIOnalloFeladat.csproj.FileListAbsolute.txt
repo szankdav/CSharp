@@ -1,0 +1,10 @@
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\bin\Debug\BillenoGombGDIOnalloFeladat.exe.config
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\bin\Debug\BillenoGombGDIOnalloFeladat.exe
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\bin\Debug\BillenoGombGDIOnalloFeladat.pdb
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\obj\Debug\BillenoGombGDIOnalloFeladat.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\obj\Debug\BillenoGombGDIOnalloFeladat.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\obj\Debug\BillenoGombGDIOnalloFeladat.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\obj\Debug\BillenoGombGDIOnalloFeladat.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\obj\Debug\BillenoGombGDIOnalloFeladat.exe
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\obj\Debug\BillenoGombGDIOnalloFeladat.pdb
+C:\Users\TUF Gaming\source\repos\BillenoGombGDIOnalloFeladat\BillenoGombGDIOnalloFeladat\obj\Debug\BillenoGombGDIOnalloFeladat.Form1.resources

@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\bin\Debug\parse.exe.config
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\bin\Debug\parse.exe
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\bin\Debug\parse.pdb
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\obj\Debug\parse.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\obj\Debug\parse.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\obj\Debug\parse.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\obj\Debug\parse.exe
+C:\Users\TUF Gaming\source\repos\HelloWorld\parse\obj\Debug\parse.pdb

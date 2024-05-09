@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\bin\Debug\03016_HF_Autok.exe.config
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\bin\Debug\03016_HF_Autok.exe
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\bin\Debug\03016_HF_Autok.pdb
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\obj\Debug\03016_HF_Autok.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\obj\Debug\03016_HF_Autok.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\obj\Debug\03016_HF_Autok.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\obj\Debug\03016_HF_Autok.exe
+C:\Users\TUF Gaming\source\repos\HF_06.28\03016_HF_Autok\obj\Debug\03016_HF_Autok.pdb

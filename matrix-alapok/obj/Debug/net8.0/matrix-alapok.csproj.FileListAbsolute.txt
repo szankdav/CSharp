@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\source\repos\matrix-alapok\bin\Debug\net8.0\matrix-alapok.exe
+C:\Users\TUF Gaming\source\repos\matrix-alapok\bin\Debug\net8.0\matrix-alapok.deps.json
+C:\Users\TUF Gaming\source\repos\matrix-alapok\bin\Debug\net8.0\matrix-alapok.runtimeconfig.json
+C:\Users\TUF Gaming\source\repos\matrix-alapok\bin\Debug\net8.0\matrix-alapok.dll
+C:\Users\TUF Gaming\source\repos\matrix-alapok\bin\Debug\net8.0\matrix-alapok.pdb
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\matrix-alapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\matrix-alapok.AssemblyInfoInputs.cache
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\matrix-alapok.AssemblyInfo.cs
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\matrix-alapok.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\matrix-alapok.dll
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\refint\matrix-alapok.dll
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\matrix-alapok.pdb
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\matrix-alapok.genruntimeconfig.cache
+C:\Users\TUF Gaming\source\repos\matrix-alapok\obj\Debug\net8.0\ref\matrix-alapok.dll

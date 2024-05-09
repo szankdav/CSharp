@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\GenerikusKonfiguracioPelda\GenerikusKonfiguracioPelda\bin\Debug\GenerikusKonfiguracioPelda.exe.config
+C:\Users\TUF Gaming\source\repos\GenerikusKonfiguracioPelda\GenerikusKonfiguracioPelda\bin\Debug\GenerikusKonfiguracioPelda.exe
+C:\Users\TUF Gaming\source\repos\GenerikusKonfiguracioPelda\GenerikusKonfiguracioPelda\bin\Debug\GenerikusKonfiguracioPelda.pdb
+C:\Users\TUF Gaming\source\repos\GenerikusKonfiguracioPelda\GenerikusKonfiguracioPelda\obj\Debug\GenerikusKonfiguracioPelda.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\GenerikusKonfiguracioPelda\GenerikusKonfiguracioPelda\obj\Debug\GenerikusKonfiguracioPelda.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\GenerikusKonfiguracioPelda\GenerikusKonfiguracioPelda\obj\Debug\GenerikusKonfiguracioPelda.exe
+C:\Users\TUF Gaming\source\repos\GenerikusKonfiguracioPelda\GenerikusKonfiguracioPelda\obj\Debug\GenerikusKonfiguracioPelda.pdb

@@ -1,0 +1,13 @@
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\bin\Debug\CsuszkaGombDLLFelhasznalas.exe.config
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\bin\Debug\CsuszkaGombDLLFelhasznalas.exe
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\bin\Debug\CsuszkaGombDLLFelhasznalas.pdb
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\bin\Debug\CsuszkaGomb.dll
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\bin\Debug\CsuszkaGomb.pdb
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.csproj.CopyComplete
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.exe
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.pdb
+C:\Users\TUF Gaming\source\repos\CsuszkaGombDLLFelhasznalas\CsuszkaGombDLLFelhasznalas\obj\Debug\CsuszkaGombDLLFelhasznalas.Form1.resources

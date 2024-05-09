@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\ExtensionWithCurrency\ExtensionWithCurrency\bin\Debug\ExtensionWithCurrency.exe.config
+C:\Users\TUF Gaming\source\repos\ExtensionWithCurrency\ExtensionWithCurrency\bin\Debug\ExtensionWithCurrency.exe
+C:\Users\TUF Gaming\source\repos\ExtensionWithCurrency\ExtensionWithCurrency\bin\Debug\ExtensionWithCurrency.pdb
+C:\Users\TUF Gaming\source\repos\ExtensionWithCurrency\ExtensionWithCurrency\obj\Debug\ExtensionWithCurrency.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\ExtensionWithCurrency\ExtensionWithCurrency\obj\Debug\ExtensionWithCurrency.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\ExtensionWithCurrency\ExtensionWithCurrency\obj\Debug\ExtensionWithCurrency.exe
+C:\Users\TUF Gaming\source\repos\ExtensionWithCurrency\ExtensionWithCurrency\obj\Debug\ExtensionWithCurrency.pdb

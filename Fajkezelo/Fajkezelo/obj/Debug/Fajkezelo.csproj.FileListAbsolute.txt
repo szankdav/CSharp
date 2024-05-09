@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\bin\Debug\Fajkezelo.exe.config
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\bin\Debug\Fajkezelo.exe
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\bin\Debug\Fajkezelo.pdb
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\obj\Debug\Fajkezelo.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\obj\Debug\Fajkezelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\obj\Debug\Fajkezelo.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\obj\Debug\Fajkezelo.exe
+C:\Users\TUF Gaming\source\repos\Fajkezelo\Fajkezelo\obj\Debug\Fajkezelo.pdb

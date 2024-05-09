@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\bin\Debug\05043_HF_FájlFeldolgozóOOP.exe.config
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\bin\Debug\05043_HF_FájlFeldolgozóOOP.exe
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\bin\Debug\05043_HF_FájlFeldolgozóOOP.pdb
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\obj\Debug\05043_HF_FájlFeldolgozóOOP.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\obj\Debug\05043_HF_FájlFeldolgozóOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\obj\Debug\05043_HF_FájlFeldolgozóOOP.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\obj\Debug\05043_HF_FájlFeldolgozóOOP.exe
+C:\Users\TUF Gaming\source\repos\HF_07.17\05043_HF_FájlFeldolgozóOOP\obj\Debug\05043_HF_FájlFeldolgozóOOP.pdb

@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\Fajl_gyakorlas\bin\Debug\Fajl_gyakorlas.exe.config
+C:\Users\TUF Gaming\source\repos\Fajl_gyakorlas\bin\Debug\Fajl_gyakorlas.exe
+C:\Users\TUF Gaming\source\repos\Fajl_gyakorlas\bin\Debug\Fajl_gyakorlas.pdb
+C:\Users\TUF Gaming\source\repos\Fajl_gyakorlas\obj\Debug\Fajl_gyakorlas.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Fajl_gyakorlas\obj\Debug\Fajl_gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Fajl_gyakorlas\obj\Debug\Fajl_gyakorlas.exe
+C:\Users\TUF Gaming\source\repos\Fajl_gyakorlas\obj\Debug\Fajl_gyakorlas.pdb

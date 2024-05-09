@@ -1,0 +1,8 @@
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\bin\Debug\CSVBeolvasas.exe.config
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\bin\Debug\CSVBeolvasas.exe
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\bin\Debug\CSVBeolvasas.pdb
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\obj\Debug\CSVBeolvasas.csproj.AssemblyReference.cache
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\obj\Debug\CSVBeolvasas.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\obj\Debug\CSVBeolvasas.csproj.CoreCompileInputs.cache
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\obj\Debug\CSVBeolvasas.exe
+C:\Users\gabor\source\repos\CSVBeolvasas\CSVBeolvasas\obj\Debug\CSVBeolvasas.pdb

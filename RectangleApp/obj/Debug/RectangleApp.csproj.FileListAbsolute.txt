@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\RectangleApp\bin\Debug\RectangleApp.exe.config
+C:\Users\TUF Gaming\source\repos\RectangleApp\bin\Debug\RectangleApp.exe
+C:\Users\TUF Gaming\source\repos\RectangleApp\bin\Debug\RectangleApp.pdb
+C:\Users\TUF Gaming\source\repos\RectangleApp\obj\Debug\RectangleApp.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\RectangleApp\obj\Debug\RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\RectangleApp\obj\Debug\RectangleApp.exe
+C:\Users\TUF Gaming\source\repos\RectangleApp\obj\Debug\RectangleApp.pdb

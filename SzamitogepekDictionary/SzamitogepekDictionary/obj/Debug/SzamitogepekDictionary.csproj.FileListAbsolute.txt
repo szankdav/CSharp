@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\bin\Debug\SzamitogepekDictionary.exe.config
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\bin\Debug\SzamitogepekDictionary.exe
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\bin\Debug\SzamitogepekDictionary.pdb
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.FrmFelvitel.resources
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.exe
+C:\Users\TUF Gaming\source\repos\SzamitogepekDictionary\SzamitogepekDictionary\obj\Debug\SzamitogepekDictionary.pdb

@@ -1,0 +1,11 @@
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\bin\Debug\NegyGomb.exe.config
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\bin\Debug\NegyGomb.exe
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\bin\Debug\NegyGomb.pdb
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.FrmMain.resources
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.exe
+C:\Users\TUF Gaming\source\repos\DinamikusKomponensek\NegyGomb\obj\Debug\NegyGomb.pdb

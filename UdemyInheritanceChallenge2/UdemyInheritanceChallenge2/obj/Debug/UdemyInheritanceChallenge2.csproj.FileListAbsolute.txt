@@ -1,0 +1,7 @@
+C:\Users\TUF Gaming\source\repos\UdemyInheritanceChallenge2\UdemyInheritanceChallenge2\bin\Debug\UdemyInheritanceChallenge2.exe.config
+C:\Users\TUF Gaming\source\repos\UdemyInheritanceChallenge2\UdemyInheritanceChallenge2\bin\Debug\UdemyInheritanceChallenge2.exe
+C:\Users\TUF Gaming\source\repos\UdemyInheritanceChallenge2\UdemyInheritanceChallenge2\bin\Debug\UdemyInheritanceChallenge2.pdb
+C:\Users\TUF Gaming\source\repos\UdemyInheritanceChallenge2\UdemyInheritanceChallenge2\obj\Debug\UdemyInheritanceChallenge2.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\UdemyInheritanceChallenge2\UdemyInheritanceChallenge2\obj\Debug\UdemyInheritanceChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\UdemyInheritanceChallenge2\UdemyInheritanceChallenge2\obj\Debug\UdemyInheritanceChallenge2.exe
+C:\Users\TUF Gaming\source\repos\UdemyInheritanceChallenge2\UdemyInheritanceChallenge2\obj\Debug\UdemyInheritanceChallenge2.pdb

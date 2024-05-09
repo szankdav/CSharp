@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\radio\radio\bin\Debug\radio.exe.config
+C:\Users\TUF Gaming\source\repos\radio\radio\bin\Debug\radio.exe
+C:\Users\TUF Gaming\source\repos\radio\radio\bin\Debug\radio.pdb
+C:\Users\TUF Gaming\source\repos\radio\radio\obj\Debug\radio.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\radio\radio\obj\Debug\radio.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\radio\radio\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\radio\radio\obj\Debug\radio.exe
+C:\Users\TUF Gaming\source\repos\radio\radio\obj\Debug\radio.pdb

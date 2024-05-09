@@ -1,0 +1,8 @@
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\bin\Debug\try_catch.exe.config
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\bin\Debug\try_catch.exe
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\bin\Debug\try_catch.pdb
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\obj\Debug\try_catch.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\obj\Debug\try_catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\obj\Debug\try_catch.exe
+C:\Users\TUF Gaming\source\repos\try_catch\try_catch\obj\Debug\try_catch.pdb

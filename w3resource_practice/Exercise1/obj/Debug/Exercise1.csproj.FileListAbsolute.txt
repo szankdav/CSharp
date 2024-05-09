@@ -1,0 +1,8 @@
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Developer\source\repos\w3resource_practice\Exercise1\obj\Debug\Exercise1.pdb

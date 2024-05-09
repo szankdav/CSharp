@@ -1,0 +1,16 @@
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\bin\Debug\FeladatIII.exe.config
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\bin\Debug\FeladatIII.exe
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\bin\Debug\FeladatIII.pdb
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.exe
+C:\Users\Developer\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.pdb
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.exe
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\obj\Debug\FeladatIII.pdb
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\bin\Debug\FeladatIII.exe.config
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\bin\Debug\FeladatIII.exe
+C:\Users\TUF Gaming\source\repos\Fajfeldolgozas\FeladatIII\bin\Debug\FeladatIII.pdb
